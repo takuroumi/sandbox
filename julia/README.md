@@ -5,3 +5,6 @@
 - `export PATH="~/julia-1.7.1/bin:$PATH"`
 - `source ~/.bashrc`
 - `julia`
+
+### latest practice
+- [Strings](https://docs.julialang.org/en/v1/manual/strings/) - 2022/1/16
